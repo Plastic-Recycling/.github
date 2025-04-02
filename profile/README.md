@@ -1,4 +1,4 @@
-![logoW.png](https://github.com/Plastic-Recycling/.github/blob/main/profile/logoW.png)
+![logoW.png](https://raw.githubusercontent.com/Plastic-Recycling/.github/refs/heads/main/profile/logoW.png)
 
 ## 프로젝트 소개
 플라스틱 종류를 판단할 수 있는 모델을 개발하고 이를 이용한 플라스틱 재활용 서비스 웹 개발
