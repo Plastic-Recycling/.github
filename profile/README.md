@@ -12,7 +12,6 @@
 
 ## 프로젝트 개발 소개
 ### 기능 별 리포지토리
-* 통합 관리 : [PET-Recycling](https://github.com/Plastic-Recycling/PET-Recycling)
 * 프론트 엔드 : [Front](https://github.com/Plastic-Recycling/Front)
 * 백 엔드 : [Back](https://github.com/Plastic-Recycling/Back)
 * 머신 러닝 : [ML](https://github.com/Plastic-Recycling/ML)
